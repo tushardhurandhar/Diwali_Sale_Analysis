@@ -1,4 +1,4 @@
-# Diwali_Sale_Analysis
+# Festival_Sale_Analysis
 ## Python Lib used:
 ### Numpy
 library used for working with arrays
